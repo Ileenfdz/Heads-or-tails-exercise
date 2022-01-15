@@ -1,0 +1,24 @@
+{
+  "name": "heads-or-tails",
+  "version": "1.0.0",
+  "description": "A mini exercise to show a random result for the known game of heads or tails.",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^27.4.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ileenfdz/Heads-or-tails-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ileenfdz/Heads-or-tails-exercise/issues"
+  },
+  "homepage": "https://github.com/Ileenfdz/Heads-or-tails-exercise#readme"
+}
