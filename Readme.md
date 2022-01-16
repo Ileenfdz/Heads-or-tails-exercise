@@ -12,4 +12,4 @@ A mini exercise to show a random result for the known game of heads or tails.
 
 ## Run tests
 
--npm run jest
+-npm run test
